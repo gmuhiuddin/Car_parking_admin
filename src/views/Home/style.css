@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    font-weight: 600;
+    font-size: 2em;
+}
+
+table {
+    padding: 3px;
+    font-size: 1.2em;
+    color: #808dad;
+    width: 100%;
+    margin: 9px 0px;
+    border-collapse: collapse;
+}
+
+td{
+    padding: 3px 7px;
+    text-align: center;
+}
